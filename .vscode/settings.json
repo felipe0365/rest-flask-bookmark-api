@@ -1,0 +1,6 @@
+{
+    "screencastMode.keyboardOptions": {
+        "showCommandGroups": true
+    },
+    "python.analysis.typeCheckingMode": "standard"
+}
