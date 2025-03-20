@@ -1,6 +1,0 @@
-FLASK_ENV=development
-FLASK_APP=src
-FLASK_DEBUG=1
-SLQ_ALCHEMY_DB_URI=sqlite:///bookmarks.db
-
-JWT_SECRET_KEY=9b1f8b1efa882b78a7884c8f
